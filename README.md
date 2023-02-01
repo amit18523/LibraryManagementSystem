@@ -28,3 +28,21 @@ Users can rent the same book multiple times but not consecutively
 
 
 Use Case 6:
+Users should be able to post reviews and likes on the books they have rented upon.Reviewing not rented books are not allowed
+
+Use Case 7:
+Users should be able to return the books that they have rented. Once the book is returned the balance amount after deposit is deposited back to the wallet
+
+Use Case 8:
+Users should be able to see the transaction history of rentals and returns
+
+Use Case 9:
+Users should be able to see transaction history of their wallet
+
+
+Use Case 10:
+Expose an api to generate the stores transaction summary (list of all the transactions across all the users)
+
+
+Use Case 11:
+Users have ability to report a user's review as abusive and if more than 3 reports are made on the user he should be suspended and his reviews should be disabled(should not be deleted)
